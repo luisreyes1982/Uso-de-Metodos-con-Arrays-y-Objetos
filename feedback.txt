@@ -1,0 +1,4 @@
+Excelente trabajo!!!. Hay un error en el punto 3 ya que el listado no se separó con un párrafo
+, pero como se incluyó un listado con el total de cada uno de los tipos de atenciones (que no se había pedido)
+ no se descontó ese punto. Hay que mejorar el tema del orden, ya que está algo desordenado el despliegue. 
+ Ojo, que alteraron el array original. Todo lo demás muy bien. Felicitaciones !!!
